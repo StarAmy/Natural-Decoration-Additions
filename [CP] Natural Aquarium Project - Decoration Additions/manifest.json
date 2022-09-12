@@ -1,0 +1,14 @@
+{
+  "Name": "[CP] Natural Aquarium Project - Decoration Additions",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "Adds a number of new aquarium and terrarium decorations for fish tanks.",
+  "UniqueID": "StarAmy.DecorationAdditions",
+   "Dependencies": [    
+    {"UniqueID": "spacechase0.ContentPatcherAnimations"}
+    ],
+   "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.20.0"
+   }
+}
