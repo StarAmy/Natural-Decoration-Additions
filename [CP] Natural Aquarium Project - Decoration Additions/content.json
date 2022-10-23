@@ -524,25 +524,25 @@
        {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 4],//spring forage beach
-         "Value": "2419 -1 2413 -1",
+         "Value": "2413 -1",
          "Delimiter": " " // if there are already values, add a space between them and the new ones
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 5],//summer forage beach
-         "Value": "2419 -1 2413 -1",
+         "Value": "2413 -1",
          "Delimiter": " " // if there are already values, add a space between them and the new ones
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 6],//fall forage beach
-         "Value": "2419 -1 2413 -1",
+         "Value": "2413 -1",
          "Delimiter": " " // if there are already values, add a space between them and the new ones
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 7],//winter forage beach
-         "Value": "2419 -1 2413 -1",
+         "Value": "2413 -1",
          "Delimiter": " " // if there are already values, add a space between them and the new ones
       },
        {
