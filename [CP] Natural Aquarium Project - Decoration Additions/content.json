@@ -1,5 +1,11 @@
 {
     "Format": "1.23.0",
+    "ConfigSchema": {
+         "Item Collecting": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+      },
     "Changes": [
          {
         "Action": "EditImage",
@@ -13,19 +19,19 @@
       "LogName": "Fish Object Data",
           "Target": "Data/ObjectInformation",
           "Entries": {
-             "2352": "Tank Succulent One/55/-300/Resource -16/Tank Succulent One/A hardy desert plant.",
-             "2353": "Tank Succulent Two/55/-300/Resource -16/Tank Succulent Two/A hardy desert plant.",
-             "2354": "Tank Succulent Three/55/-300/Resource -16/Tank Succulent Three/A hardy desert plant.",
-             "2355": "Tank Succulent Four/55/-300/Resource -16/Tank Succulent Four/A hardy desert plant.",
-             "2356": "Tank Succulent Five/55/-300/Resource -16/Tank Succulent Five/A hardy desert plant.",
-             "2357": "Butterwort/80/-300/Resource -16/Butterwort/Hmmm...this one has a taste for more than sunlight.",
-             "2358": "Sun Pitcher/80/-300/Resource -16/Sun Pitcher/Hmmm...this one has a taste for more than sunlight.",
-             "2359": "Cobra Lily/80/-300/Resource -16/Cobra Lily/Hmmm...this one has a taste for more than sunlight.",
-             "2360": "Cephalotus/80/-300/Resource -16/Cephalotus/Hmmm...this one has a taste for more than sunlight.",
-             "2361": "Nepenthes/80/-300/Resource -16/Nepenthes/Hmmm...this one has a taste for more than sunlight.",
-             "2362": "Trumpet Pitcher/80/-300/Resource -16/Trumpet Pitcher/Hmmm...this one has a taste for more than sunlight.",
-             "2363": "Sundew/80/-300/Resource -16/Sundew/Hmmm...this one has a taste for more than sunlight.",
-             "2364": "Flytrap/80/-300/Resource -16/Flytrap/Hmmm...this one has a taste for more than sunlight.",
+             "2352": "Tank Succulent (1 of 5)/55/-300/Resource -16/Tank Succulent (1 of 5)/A hardy desert plant.",
+             "2353": "Tank Succulent (2 of 5)/55/-300/Resource -16/Tank Succulent (2 of 5)/A hardy desert plant.",
+             "2354": "Tank Succulent (3 of 5)/55/-300/Resource -16/Tank Succulent (3 of 5)/A hardy desert plant.",
+             "2355": "Tank Succulent (4 of 5)/55/-300/Resource -16/Tank Succulent (4 of 5)/A hardy desert plant.",
+             "2356": "Tank Succulent (5 of 5)/55/-300/Resource -16/Tank Succulent (5 of 5)/A hardy desert plant.",
+             "2357": "Butterwort/80/-300/Resource -16/Butterwort/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2358": "Sun Pitcher/80/-300/Resource -16/Sun Pitcher/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2359": "Cobra Lily/80/-300/Resource -16/Cobra Lily/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2360": "Cephalotus/80/-300/Resource -16/Cephalotus/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2361": "Nepenthes/80/-300/Resource -16/Nepenthes/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2362": "Trumpet Pitcher/80/-300/Resource -16/Trumpet Pitcher/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2363": "Sundew/80/-300/Resource -16/Sundew/Hmmm...this (1 of 5) has a taste for more than sunlight.",
+             "2364": "Flytrap/80/-300/Resource -16/Flytrap/Hmmm...this (1 of 5) has a taste for more than sunlight.",
              "2365": "White Bromeliad/45/-300/Resource -16/White Bromeliad/Tropical plant with a single flower.",
              "2366": "Yellow Bromeliad/45/-300/Resource -16/Yellow Bromeliad/Tropical plant with a single flower.",
              "2367": "Red Bromeliad/45/-300/Resource -16/Red Bromeliad/Tropical plant with a single flower.",
@@ -45,35 +51,35 @@
              "2387": "Bellflower/60/-300/Resource -16/Bellflower/A tangled mess of pretty flowers.",
              "2388": "Calla Lily/60/-300/Resource -16/Calla Lily/A tangled mess of pretty flowers.",
              "2389": "Rose/60/-300/Resource -16/Rose/A tangled mess of pretty flowers.",
-             "2390": "Coral Covered Red Tank Rock Three/20/-300/Resource -16/Coral Covered Red Tank Rock Three/Reef rock teeming with live residents.",
-             "2391": "Coral Covered Red Tank Rock Four/20/-300/Resource -16/Coral Covered Red Tank Rock Four/Reef rock teeming with live residents.",
-             "2392": "Coral Covered Red Tank Rock Five/20/-300/Resource -16/Coral Covered Red Tank Rock Five/Reef rock teeming with live residents.",
-             "2393": "Coral Covered White Tank Rock One/40/-300/Resource -16/Coral Covered White Tank Rock One/Reef rock teeming with live residents.",
-             "2394": "Coral Covered White Tank Rock Two/40/-300/Resource -16/Coral Covered White Tank Rock Two/Reef rock teeming with live residents.",
-             "2395": "Coral Covered White Tank Rock Three/40/-300/Resource -16/Coral Covered White Tank Rock Three/Reef rock teeming with live residents.",
-             "2396": "Coral Covered White Tank Rock Four/40/-300/Resource -16/Coral Covered White Tank Rock Four/Reef rock teeming with live residents.",
-             "2397": "Coral Covered White Tank Rock Five/40/-300/Resource -16/Coral Covered White Tank Rock Five/Reef rock teeming with live residents.",
+             "2390": "Coral Covered Red Tank Rock (3 of 5)/20/-300/Resource -16/Coral Covered Red Tank Rock (3 of 5)/Reef rock teeming with live residents.",
+             "2391": "Coral Covered Red Tank Rock (4 of 5)/20/-300/Resource -16/Coral Covered Red Tank Rock (4 of 5)/Reef rock teeming with live residents.",
+             "2392": "Coral Covered Red Tank Rock (5 of 5)/20/-300/Resource -16/Coral Covered Red Tank Rock (5 of 5)/Reef rock teeming with live residents.",
+             "2393": "Coral Covered White Tank Rock (1 of 5)/40/-300/Resource -16/Coral Covered White Tank Rock (1 of 5)/Reef rock teeming with live residents.",
+             "2394": "Coral Covered White Tank Rock (2 of 5)/40/-300/Resource -16/Coral Covered White Tank Rock (2 of 5)/Reef rock teeming with live residents.",
+             "2395": "Coral Covered White Tank Rock (3 of 5)/40/-300/Resource -16/Coral Covered White Tank Rock (3 of 5)/Reef rock teeming with live residents.",
+             "2396": "Coral Covered White Tank Rock (4 of 5)/40/-300/Resource -16/Coral Covered White Tank Rock (4 of 5)/Reef rock teeming with live residents.",
+             "2397": "Coral Covered White Tank Rock (5 of 5)/40/-300/Resource -16/Coral Covered White Tank Rock (5 of 5)/Reef rock teeming with live residents.",
              "2398": "Cattails/80/-300/Resource -16/Cattails/Found in marshy areas.",
              "2399": "Mangrove/80/-300/Resource -16/Mangrove/Remarkably tolerant of salty water.",
-             "2400": "Tank Driftwood One/20/-300/Fish -20/Tank Driftwood One/Wood attractively sculpted by water and time.",
-             "2401": "Tank Driftwood Two/20/-300/Fish -20/Tank Driftwood Two/Wood attractively sculpted by water and time.",
-             "2402": "Tank Driftwood Three/20/-300/Fish -20/Tank Driftwood Three/Wood attractively sculpted by water and time.",
-             "2403": "Tank Driftwood Four/20/-300/Fish -20/Tank Driftwood Four/Wood attractively sculpted by water and time.",
-             "2404": "Tank Driftwood Five/20/-300/Fish -20/Tank Driftwood Five/Wood attractively sculpted by water and time.",
-             "2405": "Bleached Tank Driftwood One/20/-300/Fish -20/Bleached Tank Driftwood One/Wood attractively sculpted by water and time.",
-             "2406": "Bleached Tank Driftwood Two/20/-300/Fish -20/BleachedTank Driftwood Two/Wood attractively sculpted by water and time.",
-             "2407": "Bleached Tank Driftwood Three/20/-300/Fish -20/Bleached Tank Driftwood Three/Wood attractively sculpted by water and time.",
-             "2408": "Bleached Tank Driftwood Four/20/-300/Fish -20/Bleached Tank Driftwood Four/Wood attractively sculpted by water and time.",
-             "2409": "Bleached Tank Driftwood Five/20/-300/Fish -20/Bleached Tank Driftwood Five/Wood attractively sculpted by water and time.",
-             "2410": "Tank Plant One/20/-300/Fish -20/Tank Plant One/Might look nice in a fish tank.",
-             "2411": "Tank Plant Two/20/-300/Fish -20/Tank Plant Two/Might look nice in a fish tank.",
-             "2412": "Tank Plant Three/20/-300/Fish -20/Tank Plant Three/Might look nice in a fish tank.",
-             "2413": "Tank Plant Four/20/-300/Fish -20/Tank Plant Four/Might look nice in a fish tank.",
+             "2400": "Tank Driftwood (1 of 5)/20/-300/Fish -20/Tank Driftwood (1 of 5)/Wood attractively sculpted by water and time.",
+             "2401": "Tank Driftwood (2 of 5)/20/-300/Fish -20/Tank Driftwood (2 of 5)/Wood attractively sculpted by water and time.",
+             "2402": "Tank Driftwood (3 of 5)/20/-300/Fish -20/Tank Driftwood (3 of 5)/Wood attractively sculpted by water and time.",
+             "2403": "Tank Driftwood (4 of 5)/20/-300/Fish -20/Tank Driftwood (4 of 5)/Wood attractively sculpted by water and time.",
+             "2404": "Tank Driftwood (5 of 5)/20/-300/Fish -20/Tank Driftwood (5 of 5)/Wood attractively sculpted by water and time.",
+             "2405": "Bleached Tank Driftwood (1 of 5)/20/-300/Fish -20/Bleached Tank Driftwood (1 of 5)/Wood attractively sculpted by water and time.",
+             "2406": "Bleached Tank Driftwood (2 of 5)/20/-300/Fish -20/BleachedTank Driftwood (2 of 5)/Wood attractively sculpted by water and time.",
+             "2407": "Bleached Tank Driftwood (3 of 5)/20/-300/Fish -20/Bleached Tank Driftwood (3 of 5)/Wood attractively sculpted by water and time.",
+             "2408": "Bleached Tank Driftwood (4 of 5)/20/-300/Fish -20/Bleached Tank Driftwood (4 of 5)/Wood attractively sculpted by water and time.",
+             "2409": "Bleached Tank Driftwood (5 of 5)/20/-300/Fish -20/Bleached Tank Driftwood (5 of 5)/Wood attractively sculpted by water and time.",
+             "2410": "Tank Plant (1 of 8)/20/-300/Fish -20/Tank Plant (1 of 8)/Might look nice in a fish tank.",
+             "2411": "Tank Plant (2 of 8)/20/-300/Fish -20/Tank Plant (2 of 8)/Might look nice in a fish tank.",
+             "2412": "Tank Plant (3 of 8)/20/-300/Fish -20/Tank Plant (3 of 8)/Might look nice in a fish tank.",
+             "2413": "Tank Plant (4 of 8)/20/-300/Fish -20/Tank Plant (4 of 8)/Might look nice in a fish tank.",
              "2414": "Bark Round/20/-300/Resource -16/Bark Round/A nice hiding place for small critters.",
-             "2415": "Tank Plant Five/20/-300/Fish -20/Tank Plant Five/Might look nice in a fish tank.",
-             "2416": "Tank Plant Six/20/-300/Fish -20/Tank Plant Six/Might look nice in a fish tank.",
-             "2417": "Tank Plant Seven/20/-300/Fish -20/Tank Plant Seven/Might look nice in a fish tank.",
-             "2418": "Tank Plant Eight/20/-300/Fish -20/Tank Plant Eight/Might look nice in a fish tank.",
+             "2415": "Tank Plant (5 of 8)/20/-300/Fish -20/Tank Plant (5 of 8)/Might look nice in a fish tank.",
+             "2416": "Tank Plant (6 of 8)/20/-300/Fish -20/Tank Plant (6 of 8)/Might look nice in a fish tank.",
+             "2417": "Tank Plant (7 of 8)/20/-300/Fish -20/Tank Plant (7 of 8)/Might look nice in a fish tank.",
+             "2418": "Tank Plant (8 of 8)/20/-300/Fish -20/Tank Plant (8 of 8)/Might look nice in a fish tank.",
              "2419": "Leaf Litter/20/-300/Fish -20/Leaf Litter/Fish and critters like to hide under it.",
              "2420": "Yellow Sea Fan Coral/40/-300/Resource -16/Yellow Sea Fan Coral/You might be able to keep this happy in a reef tank.",
              "2421": "Red Sea Fan Coral/40/-300/Resource -16/Red Sea Fan Coral/You might be able to keep this happy in a reef tank.",
@@ -91,42 +97,42 @@
              "2433": "Purple Brain Coral/40/-300/Resource -16/Purple Brain Coral/You might be able to keep this happy in a reef tank.",
              "2434": "Green Brain Coral/40/-300/Resource -16/Green Brain Coral/You might be able to keep this happy in a reef tank.",
              "2435": "Brown Brain Coral/40/-300/Resource -16/Brown Brain Coral/You might be able to keep this happy in a reef tank.",
-             "2436": "Tank Shell One/20/-300/Resource -16/Tank Shell One/This shell looks empty now.",
-             "2437": "Tank Shell Two/20/-300/Resource -16/Tank Shell Two/This shell looks empty now.",
-             "2438": "Tank Shell Three/20/-300/Resource -16/Tank Shell Three/This shell looks empty now.",
-             "2439": "Tank Shell Four/20/-300/Resource -16/Tank Shell Four/This shell looks empty now.",
-             "2440": "Grey Tank Rock One/20/-300/Resource -16/Grey Tank Rock One/Some striking rock that might make a nice tank decoration.",
-             "2441": "Grey Tank Rock Two/20/-300/Resource -16/Grey Tank Rock Two/Some striking rock that might make a nice tank decoration.",
-             "2442": "Grey Tank Rock Three/20/-300/Resource -16/Grey Tank Rock Three/Some striking rock that might make a nice tank decoration.",
-             "2443": "Grey Tank Rock Four/20/-300/Resource -16/Grey Tank Rock Four/Some striking rock that might make a nice tank decoration.",
-             "2444": "Grey Tank Rock Five/20/-300/Resource -16/Grey Tank Rock Five/Some striking rock that might make a nice tank decoration.",
-             "2445": "Tan Tank Rock One/20/-300/Resource -16/Tan Tank Rock One/Some striking rock that might make a nice tank decoration.",
-             "2446": "Tan Tank Rock Two/20/-300/Resource -16/Tan Tank Rock Two/Some striking rock that might make a nice tank decoration.",
-             "2447": "Tan Tank Rock Three/20/-300/Resource -16/Tan Tank Rock Three/Some striking rock that might make a nice tank decoration.",
-             "2448": "Tan Tank Rock Four/20/-300/Resource -16/Tan Tank Rock Four/Some striking rock that might make a nice tank decoration.",
-             "2449": "Tan Tank Rock Five/20/-300/Resource -16/Tan Tank Rock Five/Some striking rock that might make a nice tank decoration.",
-             "2450": "Mossy Grey Tank Rock One/30/-300/Resource -16/Mossy Grey Tank Rock One/This rock has some live moss growing on it.",
-             "2451": "Mossy Grey Tank Rock Two/30/-300/Resource -16/Mossy Grey Tank Rock Two/This rock has some live moss growing on it.",
-             "2452": "Mossy Grey Tank Rock Three/30/-300/Resource -16/Mossy Grey Tank Rock Three/This rock has some live moss growing on it.",
-             "2453": "Mossy Grey Tank Rock Four/30/-300/Resource -16/Mossy Grey Tank Rock Four/This rock has some live moss growing on it.",
-             "2454": "Mossy Grey Tank Rock Five/30/-300/Resource -16/Mossy Grey Tank Rock Five/This rock has some live moss growing on it.",
-             "2455": "Mossy Tan Tank Rock One/30/-300/Resource -16/Mossy Tan Tank Rock One/This rock has some live moss growing on it.",
-             "2456": "Mossy Tan Tank Rock Two/30/-300/Resource -16/Mossy Tan Tank Rock Two/This rock has some live moss growing on it.",
-             "2457": "Mossy Tan Tank Rock Three/30/-300/Resource -16/Mossy Tan Tank Rock Three/This rock has some live moss growing on it.",
-             "2458": "Mossy Tan Tank Rock Four/30/-300/Resource -16/Mossy Tan Tank Rock Four/This rock has some live moss growing on it.",
-             "2459": "Mossy Tan Tank Rock Five/30/-300/Resource -16/Mossy Tan Tank Rock Five/This rock has some live moss growing on it.",
-             "2460": "Red Tank Rock One/20/-300/Resource -16/Red Tank Rock One/Some reef rock for your tank.",
-             "2461": "Red Tank Rock Two/20/-300/Resource -16/Red Tank Rock Two/Some reef rock for your tank.",
-             "2462": "Red Tank Rock Three/20/-300/Resource -16/Red Tank Rock Three/Some reef rock for your tank.",
-             "2463": "Red Tank Rock Four/20/-300/Resource -16/Red Tank Rock Four/Some reef rock for your tank.",
-             "2464": "Red Tank Rock Five/20/-300/Resource -16/Red Tank Rock Five/Some reef rock for your tank.",
-             "2465": "White Tank Rock One/20/-300/Resource -16/White Tank Rock One/Some reef rock for your tank.",
-             "2466": "White Tank Rock Two/20/-300/Resource -16/White Tank Rock Two/Some reef rock for your tank.",
-             "2467": "White Tank Rock Three/20/-300/Resource -16/White Tank Rock Three/Some reef rock for your tank.",
-             "2468": "White Tank Rock Four/20/-300/Resource -16/White Tank Rock Four/Some reef rock for your tank.",
-             "2469": "White Tank Rock Five/20/-300/Resource -16/White Tank Rock Five/Some reef rock for your tank.",
-             "2470": "Coral Covered Red Tank Rock One/40/-300/Resource -16/Coral Covered Red Tank Rock One/Reef rock teeming with live residents.",
-             "2471": "Coral Covered Red Tank Rock Two/40/-300/Resource -16/Coral Covered Red Tank Rock Two/Reef rock teeming with live residents.",
+             "2436": "Tank Shell (1 of 4)/20/-300/Resource -16/Tank Shell (1 of 4)/This shell looks empty now.",
+             "2437": "Tank Shell (2 of 4)/20/-300/Resource -16/Tank Shell (2 of 4)/This shell looks empty now.",
+             "2438": "Tank Shell (3 of 4)/20/-300/Resource -16/Tank Shell (3 of 4)/This shell looks empty now.",
+             "2439": "Tank Shell (4 of 4)/20/-300/Resource -16/Tank Shell (4 of 4)/This shell looks empty now.",
+             "2440": "Grey Tank Rock (1 of 5)/20/-300/Resource -16/Grey Tank Rock (1 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2441": "Grey Tank Rock (2 of 5)/20/-300/Resource -16/Grey Tank Rock (2 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2442": "Grey Tank Rock (3 of 5)/20/-300/Resource -16/Grey Tank Rock (3 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2443": "Grey Tank Rock (4 of 5)/20/-300/Resource -16/Grey Tank Rock (4 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2444": "Grey Tank Rock (5 of 5)/20/-300/Resource -16/Grey Tank Rock (5 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2445": "Tan Tank Rock (1 of 5)/20/-300/Resource -16/Tan Tank Rock (1 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2446": "Tan Tank Rock (2 of 5)/20/-300/Resource -16/Tan Tank Rock (2 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2447": "Tan Tank Rock (3 of 5)/20/-300/Resource -16/Tan Tank Rock (3 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2448": "Tan Tank Rock (4 of 5)/20/-300/Resource -16/Tan Tank Rock (4 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2449": "Tan Tank Rock (5 of 5)/20/-300/Resource -16/Tan Tank Rock (5 of 5)/Some striking rock that might make a nice tank decoration.",
+             "2450": "Mossy Grey Tank Rock (1 of 5)/30/-300/Resource -16/Mossy Grey Tank Rock (1 of 5)/This rock has some live moss growing on it.",
+             "2451": "Mossy Grey Tank Rock (2 of 5)/30/-300/Resource -16/Mossy Grey Tank Rock (2 of 5)/This rock has some live moss growing on it.",
+             "2452": "Mossy Grey Tank Rock (3 of 5)/30/-300/Resource -16/Mossy Grey Tank Rock (3 of 5)/This rock has some live moss growing on it.",
+             "2453": "Mossy Grey Tank Rock (4 of 5)/30/-300/Resource -16/Mossy Grey Tank Rock (4 of 5)/This rock has some live moss growing on it.",
+             "2454": "Mossy Grey Tank Rock (5 of 5)/30/-300/Resource -16/Mossy Grey Tank Rock (5 of 5)/This rock has some live moss growing on it.",
+             "2455": "Mossy Tan Tank Rock (1 of 5)/30/-300/Resource -16/Mossy Tan Tank Rock (1 of 5)/This rock has some live moss growing on it.",
+             "2456": "Mossy Tan Tank Rock (2 of 5)/30/-300/Resource -16/Mossy Tan Tank Rock (2 of 5)/This rock has some live moss growing on it.",
+             "2457": "Mossy Tan Tank Rock (3 of 5)/30/-300/Resource -16/Mossy Tan Tank Rock (3 of 5)/This rock has some live moss growing on it.",
+             "2458": "Mossy Tan Tank Rock (4 of 5)/30/-300/Resource -16/Mossy Tan Tank Rock (4 of 5)/This rock has some live moss growing on it.",
+             "2459": "Mossy Tan Tank Rock (5 of 5)/30/-300/Resource -16/Mossy Tan Tank Rock (5 of 5)/This rock has some live moss growing on it.",
+             "2460": "Red Tank Rock (1 of 5)/20/-300/Resource -16/Red Tank Rock (1 of 5)/Some reef rock for your tank.",
+             "2461": "Red Tank Rock (2 of 5)/20/-300/Resource -16/Red Tank Rock (2 of 5)/Some reef rock for your tank.",
+             "2462": "Red Tank Rock (3 of 5)/20/-300/Resource -16/Red Tank Rock (3 of 5)/Some reef rock for your tank.",
+             "2463": "Red Tank Rock (4 of 5)/20/-300/Resource -16/Red Tank Rock (4 of 5)/Some reef rock for your tank.",
+             "2464": "Red Tank Rock (5 of 5)/20/-300/Resource -16/Red Tank Rock (5 of 5)/Some reef rock for your tank.",
+             "2465": "White Tank Rock (1 of 5)/20/-300/Resource -16/White Tank Rock (1 of 5)/Some reef rock for your tank.",
+             "2466": "White Tank Rock (2 of 5)/20/-300/Resource -16/White Tank Rock (2 of 5)/Some reef rock for your tank.",
+             "2467": "White Tank Rock (3 of 5)/20/-300/Resource -16/White Tank Rock (3 of 5)/Some reef rock for your tank.",
+             "2468": "White Tank Rock (4 of 5)/20/-300/Resource -16/White Tank Rock (4 of 5)/Some reef rock for your tank.",
+             "2469": "White Tank Rock (5 of 5)/20/-300/Resource -16/White Tank Rock (5 of 5)/Some reef rock for your tank.",
+             "2470": "Coral Covered Red Tank Rock (1 of 5)/40/-300/Resource -16/Coral Covered Red Tank Rock (1 of 5)/Reef rock teeming with live residents.",
+             "2471": "Coral Covered Red Tank Rock (2 of 5)/40/-300/Resource -16/Coral Covered Red Tank Rock (2 of 5)/Reef rock teeming with live residents.",
              "2376": "Scuba Diver/60/-300/Crafting/Scuba Diver/Made to bob around inside of a fish tank.",
              "2377": "Submarine/80/-300/Crafting -8/Submarine/Made to bob around inside of a fish tank.",
              "2378": "Mealworms/35/-300/Crafting -8/Mealworms/Lizards or birds might like these.",
@@ -357,385 +363,388 @@
       "Action": "EditData",
       "LogName": "Decoration Location Data",
       "Target": "Data/Locations",
+       "When":{ 
+            "Item Collecting": "True"
+        },
       "TextOperations": [
       {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 0],//spring forage beach
          "Value": "2352 .4 2353 .4 2445 .6 2446 .6 2447 .6 2448 .6 2449 .6 2436 .3 2437 .3 2438 .3 2439 .3 2405 .6 2406 .6 2407 .6 2408 .6 2409 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 1],//summer forage beach
          "Value": "2354 .4 2445 .6 2446 .6 2447 .6 2448 .6 2449 .6 2436 .3 2437 .3 2438 .3 2439 .3 2405 .6 2406 .6 2407 .6 2408 .6 2409 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 2],//fall forage beach
          "Value": "2355 .4 2356 .4 2445 .6 2446 .6 2447 .6 2448 .6 2449 .6 2436 .3 2437 .3 2438 .3 2439 .3 2405 .6 2406 .6 2407 .6 2408 .6 2409 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 3],//winter forage beach
          "Value": "2445 .6 2446 .6 2447 .6 2448 .6 2449 .6 2436 .3 2437 .3 2438 .3 2439 .3 2405 .6 2406 .6 2407 .6 2408 .6 2409 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "BusStop", 0],//spring forage beach
          "Value": "2455 .6 2456 .6 2457 .6 2458 .6 2459 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "BusStop", 1],//summer forage beach
          "Value": "2455 .6 2456 .6 2457 .6 2458 .6 2459 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "BusStop", 2],//fall forage beach
          "Value": "2455 .6 2456 .6 2457 .6 2458 .6 2459 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "BusStop", 3],//winter forage beach
          "Value": "2455 .6 2456 .6 2457 .6 2458 .6 2459 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 1],//summer forage beach
          "Value": "2382 .5 2398 .7",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 2],//fall forage beach
          "Value": "2383 .6 2384 .4 2419 .7 2369 .5",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 3],//winter forage beach
          "Value": "2419 .7",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 0],//spring forage beach
          "Value": "2450 .6 2451 .6 2452 .6 2453 .6 2454 .6 2359 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 1],//summer forage beach
          "Value": "2450 .6 2451 .6 2452 .6 2453 .6 2454 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 2],//fall forage beach
          "Value": "2450 .6 2451 .6 2452 .6 2453 .6 2454 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 3],//winter forage beach
          "Value": "2450 .6 2451 .6 2452 .6 2453 .6 2454 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 0],//spring forage beach
          "Value": "2400 .6 2401 .6 2402 .6 2403 .6 2404 .6 2440 .6 2441 .6 2442 .6 2443 .6 2444 .6 2385 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 1],//summer forage beach
          "Value": "2400 .6 2401 .6 2402 .6 2403 .6 2404 .6 2440 .6 2441 .6 2442 .6 2443 .6 2444 .6 2386 .4 2387 .4 2388 .4 2389 .4 2364 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 2],//fall forage beach
          "Value": "2400 .6 2401 .6 2402 .6 2403 .6 2404 .6 2440 .6 2441 .6 2442 .6 2443 .6 2444 .6 2362 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
         {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 3],//winter forage beach
          "Value": "2400 .6 2401 .6 2402 .6 2403 .6 2404 .6 2440 .6 2441 .6 2442 .6 2443 .6 2444 .6",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
        {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 0],//spring forage beach
          "Value": "2405 .6 2406 .6 2407 .6 2408 .6 2409 .6 2436 .4 2437 .4 2438 .4 2439 .4 2393 .6 2394 .6 2395 .6 2396 .6 2397 .6 2430 .4 2431 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 1],//summer forage beach
          "Value": "2405 .6 2406 .6 2407 .6 2408 .6 2409 .6 2436 .4 2437 .4 2438 .4 2439 .4 2393 .6 2394 .6 2395 .6 2396 .6 2397 .6 2432 .4 2435 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 2],//fall forage beach
          "Value": "2405 .6 2406 .6 2407 .6 2408 .6 2409 .6 2436 .4 2437 .4 2438 .4 2439 .4 2465 .6 2466 .6 2467 .6 2468 .6 2469 .6 2424 .4 2426 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 3],//winter forage beach
          "Value": "2405 .6 2406 .6 2407 .6 2408 .6 2409 .6 2436 .4 2437 .4 2438 .4 2439 .4 2465 .6 2466 .6 2467 .6 2468 .6 2469 .6 2422 .4 2423 .4",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       //tank plant fishing data
        {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 4],//spring forage beach
          "Value": "2418 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 5],//summer forage beach
          "Value": "2418 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 6],//fall forage beach
          "Value": "2418 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Desert", 7],//winter forage beach
          "Value": "2418 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
        {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 4],//spring forage beach
          "Value": "2413 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 5],//summer forage beach
          "Value": "2413 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 6],//fall forage beach
          "Value": "2413 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Woods", 7],//winter forage beach
          "Value": "2413 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
        {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 4],//spring forage beach
          "Value": "2412 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 5],//summer forage beach
          "Value": "2412 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 6],//fall forage beach
          "Value": "2412 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Mountain", 7],//winter forage beach
          "Value": "2412 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Town", 4],//spring forage beach
          "Value": "2410 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Town", 5],//summer forage beach
          "Value": "2410 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Town", 6],//fall forage beach
          "Value": "2410 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Town", 7],//winter forage beach
          "Value": "2410 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 4],//spring forage beach
          "Value": "2410 0 2411 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 5],//summer forage beach
          "Value": "2410 0 2411 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 6],//fall forage beach
          "Value": "2410 0 2411 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Forest", 7],//winter forage beach
          "Value": "2410 0 2411 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
        {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 4],//spring forage beach
          "Value": "2415 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 5],//summer forage beach
          "Value": "2415 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 6],//fall forage beach
          "Value": "2415 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "Beach", 7],//winter forage beach
          "Value": "2415 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouth", 4],//spring forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouth", 5],//summer forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouth", 6],//fall forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouth", 7],//winter forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouthEast", 4],//spring forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouthEast", 5],//summer forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouthEast", 6],//fall forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "IslandSouthEast", 7],//winter forage beach
          "Value": "2416 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandNorth", 4],//spring forage beach
          "Value": "2417 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandNorth", 5],//summer forage beach
          "Value": "2417 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandNorth", 6],//fall forage beach
          "Value": "2417 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "IslandNorth", 7],//winter forage beach
          "Value": "2417 -1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandWest", 4],//spring forage beach
          "Value": "2417 2 2416 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandWest", 5],//summer forage beach
          "Value": "2417 2 2416 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
       {
          "Operation": "Append",
          "Target": ["Fields", "IslandWest", 6],//fall forage beach
          "Value": "2417 2 2416 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
          {
          "Operation": "Append",
          "Target": ["Fields", "IslandWest", 7],//winter forage beach
          "Value": "2417 2 2416 1",
-         "Delimiter": " " // if there are already values, add a space between them and the new ones
+         "Delimiter": " " // if there are already values, add a space between them and the new (1 of 5)s
       },
 ]   
 },
@@ -743,14 +752,14 @@
       "Action": "EditData",
       "Target": "Data/Fish",
       "Entries": {
-        "2410": "Tank Plant One/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant One",
-        "2411": "Tank Plant Two/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Two",
-        "2412": "Tank Plant Three/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Three",
-        "2413": "Tank Plant Four/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Four",
-        "2415": "Tank Plant Five/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Five",
-        "2416": "Tank Plant Six/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Six",
-        "2417": "Tank Plant Seven/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Seven",
-        "2418": "Tank Plant Eight/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant Eight",
+        "2410": "Tank Plant (1 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (1 of 8)",
+        "2411": "Tank Plant (2 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (2 of 8)",
+        "2412": "Tank Plant (3 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (3 of 8)",
+        "2413": "Tank Plant (4 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (4 of 8)",
+        "2415": "Tank Plant (5 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (5 of 8)",
+        "2416": "Tank Plant (6 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (6 of 8)",
+        "2417": "Tank Plant (7 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (7 of 8)",
+        "2418": "Tank Plant (8 of 8)/5/floater/5/30/600 2600/spring summer fall winter/both/-1/0/.3/0/0/Tank Plant (8 of 8)",
     }
 },
 {   
@@ -774,16 +783,16 @@
         "Flytrap": "plant_bog",
         "Butterwort": "plant_bog",
         "Food and Water Bowls": "decor_bowls",
-        "Tank Driftwood One": "decor_driftwood",
-        "Tank Driftwood Two": "decor_driftwood",
-        "Tank Driftwood Three": "decor_driftwood",
-        "Tank Driftwood Four": "decor_driftwood",
-        "Tank Driftwood Five": "decor_driftwood",
-        "Coral Covered Red Tank Rock One": "decor_red_coral_rock",
-        "Coral Covered Red Tank Rock Two": "decor_red_coral_rock",
-        "Coral Covered Red Tank Rock Three": "decor_red_coral_rock",
-        "Coral Covered Red Tank Rock Four": "decor_red_coral_rock",
-        "Coral Covered Red Tank Rock Five": "decor_red_coral_rock",
+        "Tank Driftwood (1 of 5)": "decor_driftwood",
+        "Tank Driftwood (2 of 5)": "decor_driftwood",
+        "Tank Driftwood (3 of 5)": "decor_driftwood",
+        "Tank Driftwood (4 of 5)": "decor_driftwood",
+        "Tank Driftwood (5 of 5)": "decor_driftwood",
+        "Coral Covered Red Tank Rock (1 of 5)": "decor_red_coral_rock",
+        "Coral Covered Red Tank Rock (2 of 5)": "decor_red_coral_rock",
+        "Coral Covered Red Tank Rock (3 of 5)": "decor_red_coral_rock",
+        "Coral Covered Red Tank Rock (4 of 5)": "decor_red_coral_rock",
+        "Coral Covered Red Tank Rock (5 of 5)": "decor_red_coral_rock",
    }
 }
 ]   
